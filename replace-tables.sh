@@ -5,7 +5,6 @@ NC='\033[0m' # No Color
 
 printf "${RED}\n\n!!! WARNING !!!\n\n"
 printf "YOU SHOULD NOT USE THIS TOOL IN PRODUCTION ENVIRONMENT AS IT DELETES ALL DATABASE DATA AND REPLACES CONTENTS WITH DUMP FILE PROVIDED!\n\n${NC}"
-
 read -r -p "Are You Sure? [Y/n] " input
 
 case $input in
