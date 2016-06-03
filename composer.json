@@ -1,0 +1,14 @@
+{
+    "name": "makallio85/mysql-scripts",
+    "description": "MySQL scripts",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marko Kallio",
+            "email": "makallio85@gmail.com"
+        }
+    ],
+    "bin": [
+        "bin/dep"
+    ]
+}
