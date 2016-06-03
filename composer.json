@@ -7,8 +7,5 @@
             "name": "Marko Kallio",
             "email": "makallio85@gmail.com"
         }
-    ],
-    "bin": [
-        "bin/dep"
     ]
 }
