@@ -2,6 +2,10 @@
 
 Contains MySQL scripts
 
+##Usage
+
+```./replace-tables.sh username password database dumpfile```
+
 #The MIT License (MIT)
 
 Copyright (c) 2016 Marko Kallio
